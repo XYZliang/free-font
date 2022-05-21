@@ -856,7 +856,7 @@
 字体采用全新骨架设计，中宫自然舒适，更加挺拔优雅；同时简化笔画，把握更多细节处理，去除出脚，使字体显得更加干净。简洁富有变化的字体线条还融入 OPPO 产品曲线美学，极具现代感和未来感，字体更加现代，笔画更加均匀，视觉表现更加整洁，非常适合用来作为设计素材使用，实用性相当广泛。
 
 <div align="center">
-<a href="https://bbs.coloros.net/graphic?id=2272309" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
+<a href="https://open.oppomobile.com/bbs/forum.php?mod=viewthread&tid=2274" target="_blank" rel="nofollow"><img src = "https://img.shields.io/badge/免费商用-无需授权-orange?style=flat-square&color=success"></a>
 </div>
 
 &nbsp;
